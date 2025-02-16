@@ -13,7 +13,7 @@ A user-friendly simple calculator built with **Python**. This calculator allows 
 
 /requirements.exe → EXE-file for running manually
 
-## 📚 Created for learning and practice purposes.
+## 📚 Created for learning and practice purposes
 
 _By Iliya (Eliya) Mosadegh_
 
